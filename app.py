@@ -1,2 +1,3 @@
 a="Hello World"
-print(a)
+b="JI"
+print(a,b)
